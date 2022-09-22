@@ -195,4 +195,7 @@ footer>nav{
     flex-direction: column;
 }
 }
-
+@media screen and (max-width: 460px) 
+{
+    header{padding: 0;}
+}
